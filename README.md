@@ -12,8 +12,9 @@ This project was developed as a component of Codecademy's Full-Stack Engineer Co
 ## Potential Upgrade Ideas 
 
 1. Add the ability to delete a quiz or edit an existing quiz.
-2. Improve the app styling.
-3. Enable local storage.
+2. Add some example quizzes to the apps initial state.
+3. Improve the app styling.
+4. Enable local storage.
 
 
 ## View the app
